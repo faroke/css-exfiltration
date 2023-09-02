@@ -1,3 +1,6 @@
 input[name=csrf]{
     background-image: url(https://5e2aca162ba65d814e99af50f761d317.m.pipedream.net);
 }
+body{
+    background-color: red;
+}
